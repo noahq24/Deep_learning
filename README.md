@@ -10,6 +10,8 @@
 
 The **Bird Species Dataset** contains images and biological data for six bird species. It is designed for use in machine learning projects, particularly for image classification tasks using a Convolutional Neural Network (CNN).
 
+[SEE Project]()
+
 ## Bird Species
 
 1. **American Goldfinch**  
